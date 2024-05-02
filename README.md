@@ -25,7 +25,7 @@ Here are some additional resources to help you with your LeetCode journey:
 
 ## Contact
 If you have any questions or suggestions, feel free to reach out:
-- Email: [your_email@example.com](mailto:misalvijay153@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/vijay-misal-b4b19b222/)
+- Email: [misalvijay153@gmail.com](mailto:misalvijay153@gmail.com)
+- LinkedIn: [Vijay Misal](https://www.linkedin.com/in/vijay-misal-b4b19b222/)
 
 Happy Coding! 🚀
